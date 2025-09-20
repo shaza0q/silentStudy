@@ -1,0 +1,4 @@
+project_id = "awvoapgacxsyrjtmsjsu"
+
+[functions.send-study-reminders]
+verify_jwt = false
